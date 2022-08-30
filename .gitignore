@@ -1,0 +1,5 @@
+/task
+/task_lnx
+*.[oa]
+/Server/.vscode
+token.txt
